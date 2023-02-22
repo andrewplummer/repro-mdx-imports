@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "plugin:mdx/recommended",
+    "plugin:import/recommended"
+  ]
+}
